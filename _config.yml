@@ -1,0 +1,61 @@
+title: MBTI 처방전
+description: 같은 책·다이어트·공부법이 누구에겐 약이 되고 누구에겐 독이 된다. MBTI 16유형 맞춤 처방전 시리즈.
+author: 문학소정
+email: 5516psj@gmail.com
+url: "https://quddnr0107-lgtm.github.io"
+baseurl: "/bookbbbb"
+
+lang: ko-KR
+timezone: Asia/Seoul
+
+permalink: /:categories/:slug/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: 문학소정
+
+# 카테고리·시리즈 정의
+collections:
+  books:
+    output: true
+    permalink: /book/:slug/
+
+# SEO 키워드 (시리즈 공통)
+keywords:
+  - MBTI
+  - 16유형
+  - 성격유형
+  - 자기계발
+  - 다이어트
+  - 공부법
+  - ENFP
+  - INFP
+  - INTJ
+  - ESTJ
+  - 문학소정
+
+# 페이지 네이션
+paginate: 12
+paginate_path: "/page/:num/"
+
+# 마크다운
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - generate_posts.js
+  - README.md
+  - Gemfile.lock
+  - node_modules
+  - vendor

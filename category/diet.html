@@ -1,0 +1,22 @@
+---
+layout: default
+title: 다이어트 - MBTI 16유형 다이어트 처방
+description: INFP·ENFP·ESTJ·INTJ 등 MBTI 16유형별 맞춤 다이어트 처방. 키토·인터미턴트·PT·홈트 등 한국 다이어트 시장 전체 분류.
+permalink: /category/다이어트/
+---
+
+<h1>다이어트 - MBTI 16유형 다이어트 처방</h1>
+
+<p>같은 다이어트가 누구에겐 약이 되고 누구에겐 독이 된다. MBTI 16유형 관점에서 한국 다이어트를 다시 분류한 처방 시리즈.</p>
+
+<p><a href="{{ '/book/diet/' | relative_url }}"><strong>▶ 단행본 정보 보기</strong></a></p>
+
+<h2>16유형별 글</h2>
+<ul class="post-list">
+{% for post in site.categories.다이어트 %}
+  <li>
+    <span class="date">{{ post.date | date: "%m.%d" }}</span>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,177 @@
+// 48편 자동 글 생성: 3권 × 16유형
+// 각 글은 원문 발췌 + 본문 일부 + 책 구매 유도 CTA
+// 사용법: node generate_posts.js
+
+const fs = require('fs');
+const path = require('path');
+
+const POSTS_DIR = path.join(__dirname, '_posts');
+const BASE_DATE = new Date('2026-05-22');
+
+// 영문 타입 슬러그 매핑 (URL 안전)
+const SLUG_BASE = {
+  INTJ: 'intj', INTP: 'intp', ENTJ: 'entj', ENTP: 'entp',
+  INFJ: 'infj', INFP: 'infp', ENFJ: 'enfj', ENFP: 'enfp',
+  ISTJ: 'istj', ISFJ: 'isfj', ESTJ: 'estj', ESFJ: 'esfj',
+  ISTP: 'istp', ISFP: 'isfp', ESTP: 'estp', ESFP: 'esfp',
+};
+
+// 3권 메타 정의
+const BOOKS = [
+  {
+    id: 'self-help',
+    title: 'ENFP에게 아주 작은 습관의 힘을 권하지 마라',
+    sub: 'MBTI 16유형 자기계발서 처방전',
+    category: '자기계발',
+    bookPath: '../mbti_book',
+    domain: '자기계발서',
+    duration: 90,
+    bookUrl: '/book/self-help/',
+    seoKeywords: ['MBTI 자기계발', '성격별 자기계발서', '16유형 책 추천'],
+  },
+  {
+    id: 'diet',
+    title: 'INFP에게 헬스장 PT를 권하지 마라',
+    sub: 'MBTI 16유형 다이어트 처방전',
+    category: '다이어트',
+    bookPath: '../mbti_diet_book',
+    domain: '다이어트',
+    duration: 90,
+    bookUrl: '/book/diet/',
+    seoKeywords: ['MBTI 다이어트', '성격별 다이어트', '16유형 다이어트'],
+  },
+  {
+    id: 'study',
+    title: 'ESTJ에게 자기주도학습을 권하지 마라',
+    sub: 'MBTI 16유형 공부법 처방전',
+    category: '공부법',
+    bookPath: '../mbti_study_book',
+    domain: '공부법',
+    duration: 100,
+    bookUrl: '/book/study/',
+    seoKeywords: ['MBTI 공부법', '성격별 공부법', '16유형 공부법'],
+  },
+];
+
+// 모든 책 데이터 로드
+function loadBook(bookPath) {
+  // mbti_book uses NT_DATA/..., mbti_diet_book/mbti_study_book use MBTI_NT/...
+  const nt = require(path.join(bookPath, 'content_mbti_nt.js'));
+  const nf = require(path.join(bookPath, 'content_mbti_nf.js'));
+  const sj = require(path.join(bookPath, 'content_mbti_sj.js'));
+  const sp = require(path.join(bookPath, 'content_mbti_sp.js'));
+  const get = (m) => m.MBTI_NT || m.MBTI_NF || m.MBTI_SJ || m.MBTI_SP || m.NT_DATA || m.NF_DATA || m.SJ_DATA || m.SP_DATA;
+  return [...get(nt), ...get(nf), ...get(sj), ...get(sp)];
+}
+
+// 글 본문 마크다운 생성 (책 본문 발췌 + 미공개 부분 차단)
+function buildPostMarkdown(type, book, postIndex) {
+  const dateStr = new Date(BASE_DATE.getTime() + postIndex * 12 * 3600 * 1000)
+    .toISOString().split('T')[0];
+
+  // intro 첫 2문단만 발췌 (전문 노출 방지)
+  const introExcerpt = type.intro.slice(0, 2).join('\n\n');
+
+  // avoid 5개 중 첫 3개만 노출 (티저)
+  const avoidTeaser = type.avoid.slice(0, 3).map(a => `- ${a}`).join('\n');
+
+  // recommended 5개 중 첫 2개의 method/book/name·why만 노출
+  // mbti_book uses r.book, mbti_diet_book/mbti_study_book use r.method
+  const recTeaser = type.recommended.slice(0, 2).map(r => {
+    const heading = r.method || r.book || r.name || r.title || '';
+    return `### ${heading}\n\n${r.why}`;
+  }).join('\n\n');
+
+  const unitWord = book.domain === '자기계발서' ? '책 5권' : '방식 5가지';
+  const seoTitle = `${type.type} ${type.nickname}에게 추천하는 ${book.domain} ${unitWord} - MBTI ${book.domain} 처방`;
+  const description = (introExcerpt.substring(0, 150) + '...').replace(/\n/g, ' ');
+
+  const tags = [
+    'MBTI', book.domain, type.type, type.nickname,
+    `${type.type} ${book.domain}`, `MBTI ${book.domain}`,
+    '16유형', '성격별',
+  ];
+
+  // YAML front matter
+  const frontMatter = `---
+layout: post
+title: "${seoTitle}"
+date: ${dateStr} 10:00:00 +0900
+categories: [${book.category}]
+tags: [${tags.map(t => `"${t}"`).join(', ')}]
+description: "${description.replace(/"/g, "'")}"
+keywords: "${book.seoKeywords.concat([`${type.type} ${book.domain}`, `${type.nickname} ${book.domain}`]).join(', ')}"
+book_title: "${book.title}"
+book_url: "${book.bookUrl}"
+type_code: "${type.type}"
+type_nickname: "${type.nickname}"
+---`;
+
+  const body = `
+## ${type.type} ${type.nickname}의 ${book.domain} 성향
+
+${introExcerpt}
+
+## 이 유형이 거부감을 느끼는 ${book.domain} 방식 (일부)
+
+${avoidTeaser}
+
+> 위 3가지는 ${type.type}이 가장 자주 무너지는 방식의 일부입니다. 전체 5가지는 단행본에서 확인할 수 있습니다.
+
+## 이 유형에게 약이 되는 ${book.domain} 방식 (티저)
+
+${recTeaser}
+
+> 나머지 3가지 방식과 각 방식의 활용법, 그리고 ${book.duration}일 지속 플랜은 단행본에서 만나보세요.
+
+## 흔한 실수
+
+${type.commonMistake.split('\n\n')[0]}
+
+## 기억할 한 줄
+
+> ${type.keyTakeaway}
+
+## 시리즈 다른 권에서 ${type.type} 처방 보기
+
+- [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
+- [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
+- [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+`;
+
+  return frontMatter + body;
+}
+
+// 메인 실행
+function main() {
+  if (!fs.existsSync(POSTS_DIR)) fs.mkdirSync(POSTS_DIR, { recursive: true });
+
+  let postIndex = 0;
+  const order = ['INTJ','INTP','ENTJ','ENTP','INFJ','INFP','ENFJ','ENFP','ISTJ','ISFJ','ESTJ','ESFJ','ISTP','ISFP','ESTP','ESFP'];
+
+  for (const book of BOOKS) {
+    const bookData = loadBook(book.bookPath);
+    const byType = {};
+    for (const t of bookData) byType[t.type] = t;
+
+    for (const code of order) {
+      const type = byType[code];
+      if (!type) { console.warn(`MISSING: ${book.id}/${code}`); continue; }
+
+      const slug = `${SLUG_BASE[code]}-${book.id}`;
+      const dateStr = new Date(BASE_DATE.getTime() + postIndex * 12 * 3600 * 1000)
+        .toISOString().split('T')[0];
+      const filename = `${dateStr}-${slug}.md`;
+      const filepath = path.join(POSTS_DIR, filename);
+
+      const md = buildPostMarkdown(type, book, postIndex);
+      fs.writeFileSync(filepath, md);
+      console.log(`✓ ${filename}`);
+      postIndex++;
+    }
+  }
+
+  console.log(`\n총 ${postIndex}편 생성 완료`);
+}
+
+main();

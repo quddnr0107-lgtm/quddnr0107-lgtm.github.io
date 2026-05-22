@@ -1,0 +1,22 @@
+---
+layout: default
+title: 자기계발 - MBTI 16유형 자기계발서 처방
+description: ENFP·INFP·INTJ·ESTJ 등 MBTI 16유형별 맞춤 자기계발서 처방. 역행자·부의 추월차선·아주 작은 습관의 힘 등 베스트셀러 분류.
+permalink: /category/자기계발/
+---
+
+<h1>자기계발 - MBTI 16유형 자기계발서 처방</h1>
+
+<p>같은 자기계발서가 누구에겐 약이 되고 누구에겐 독이 된다. MBTI 16유형 관점에서 한국 자기계발서를 다시 분류한 처방 시리즈.</p>
+
+<p><a href="{{ '/book/self-help/' | relative_url }}"><strong>▶ 단행본 정보 보기</strong></a></p>
+
+<h2>16유형별 글</h2>
+<ul class="post-list">
+{% for post in site.categories.자기계발 %}
+  <li>
+    <span class="date">{{ post.date | date: "%m.%d" }}</span>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

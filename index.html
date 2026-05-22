@@ -1,0 +1,43 @@
+---
+layout: default
+title: MBTI 16유형 처방전 시리즈
+description: 같은 책, 다이어트, 공부법이 누구에겐 약이 되고 누구에겐 독이 된다. MBTI 16유형별 맞춤 처방전 시리즈. 자기계발·다이어트·공부법 3권.
+---
+
+<h1>MBTI 16유형 처방전 시리즈</h1>
+
+<p>한국에서 가장 많이 시도되는 자기계발 방식 · 다이어트 방법 · 공부법을 MBTI 16유형 관점에서 다시 분류한 처방전 시리즈입니다.</p>
+
+<p><strong>핵심 메시지</strong>: 실패는 의지의 문제가 아니라 매칭의 문제다.</p>
+
+<div class="book-grid">
+  <a href="{{ '/book/self-help/' | relative_url }}" class="book-card">
+    <div class="code">ENFP에게</div>
+    <div class="title">아주 작은 습관의 힘을 권하지 마라</div>
+    <div class="sub">MBTI 16유형 자기계발서 처방전</div>
+  </a>
+  <a href="{{ '/book/diet/' | relative_url }}" class="book-card">
+    <div class="code">INFP에게</div>
+    <div class="title">헬스장 PT를 권하지 마라</div>
+    <div class="sub">MBTI 16유형 다이어트 처방전</div>
+  </a>
+  <a href="{{ '/book/study/' | relative_url }}" class="book-card">
+    <div class="code">ESTJ에게</div>
+    <div class="title">자기주도학습을 권하지 마라</div>
+    <div class="sub">MBTI 16유형 공부법 처방전</div>
+  </a>
+</div>
+
+<h2>최근 글</h2>
+<ul class="post-list">
+{% for post in site.posts limit:20 %}
+  <li>
+    <span class="date">{{ post.date | date: "%m.%d" }}</span>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+{% if site.posts.size > 20 %}
+<p><a href="/archive/">전체 글 보기 →</a></p>
+{% endif %}
