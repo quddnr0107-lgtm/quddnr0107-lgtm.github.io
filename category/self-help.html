@@ -13,7 +13,7 @@ permalink: /category/자기계발/
 
 <h2>16유형별 글</h2>
 <ul class="post-list">
-{% for post in site.categories.자기계발 %}
+{% for post in site.categories["자기계발"] %}
   <li>
     <span class="date">{{ post.date | date: "%m.%d" }}</span>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
