@@ -51,12 +51,43 @@ INTP가 공부에서 가장 흔한 실수는 "한 개념 깊이 파다가 시험
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 🛒 공부법 도구 보러가기
+## 🛒 공부법 도구 쿠팡에서 보기
 
-- [30일 단위 학습법 로테이션](https://www.coupang.com/np/search?q=30%EC%9D%BC%20%EB%8B%A8%EC%9C%84%20%ED%95%99%EC%8A%B5%EB%B2%95%20%EB%A1%9C%ED%85%8C%EC%9D%B4%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book)
-- [호기심 깊이 파기 + 다채널 자극](https://www.coupang.com/np/search?q=%ED%98%B8%EA%B8%B0%EC%8B%AC%20%EA%B9%8A%EC%9D%B4%20%ED%8C%8C%EA%B8%B0%20%2B%20%EB%8B%A4%EC%B1%84%EB%84%90%20%EC%9E%90%EA%B7%B9&channel=user&lptag=AF2582293&subId=mbti_book)
-- [메타 학습 일지](https://www.coupang.com/np/search?q=%EB%A9%94%ED%83%80%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
-- [1:1 과외](https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book)
-- [Active Recall 기반 백지 복습](https://www.coupang.com/np/search?q=Active%20Recall%20%EA%B8%B0%EB%B0%98%20%EB%B0%B1%EC%A7%80%20%EB%B3%B5%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=30%EC%9D%BC%20%EB%8B%A8%EC%9C%84%20%ED%95%99%EC%8A%B5%EB%B2%95%20%EB%A1%9C%ED%85%8C%EC%9D%B4%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">30일 단위 학습법 로테이션</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%ED%98%B8%EA%B8%B0%EC%8B%AC%20%EA%B9%8A%EC%9D%B4%20%ED%8C%8C%EA%B8%B0%20%2B%20%EB%8B%A4%EC%B1%84%EB%84%90%20%EC%9E%90%EA%B7%B9&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">호기심 깊이 파기 + 다채널 자극</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%A9%94%ED%83%80%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">메타 학습 일지</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">1:1 과외</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=Active%20Recall%20%EA%B8%B0%EB%B0%98%20%EB%B0%B1%EC%A7%80%20%EB%B3%B5%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">Active Recall 기반 백지 복습</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

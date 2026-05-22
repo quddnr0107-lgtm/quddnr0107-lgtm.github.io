@@ -51,12 +51,43 @@ ISFJ는 친한 사람과 함께 있을 때 자기 평가가 부드러워진다. 
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 🛒 공부법 도구 보러가기
+## 🛒 공부법 도구 쿠팡에서 보기
 
-- [노트 가이드 회상](https://www.coupang.com/np/search?q=%EB%85%B8%ED%8A%B8%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%ED%9A%8C%EC%83%81&channel=user&lptag=AF2582293&subId=mbti_book)
-- [그룹 스터디](https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94&channel=user&lptag=AF2582293&subId=mbti_book)
-- [점진적 학습량 증가](https://www.coupang.com/np/search?q=%EC%A0%90%EC%A7%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EB%9F%89%20%EC%A6%9D%EA%B0%80&channel=user&lptag=AF2582293&subId=mbti_book)
-- [학원 정규반](https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EC%A0%95%EA%B7%9C%EB%B0%98&channel=user&lptag=AF2582293&subId=mbti_book)
-- [가족·친구와 학습 일지 공유](https://www.coupang.com/np/search?q=%EA%B0%80%EC%A1%B1%C2%B7%EC%B9%9C%EA%B5%AC%EC%99%80%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80%20%EA%B3%B5%EC%9C%A0&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EB%85%B8%ED%8A%B8%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%ED%9A%8C%EC%83%81&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">노트 가이드 회상</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">그룹 스터디</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%A0%90%EC%A7%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EB%9F%89%20%EC%A6%9D%EA%B0%80&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">점진적 학습량 증가</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EC%A0%95%EA%B7%9C%EB%B0%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">학원 정규반</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EA%B0%80%EC%A1%B1%C2%B7%EC%B9%9C%EA%B5%AC%EC%99%80%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80%20%EA%B3%B5%EC%9C%A0&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">가족·친구와 학습 일지 공유</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

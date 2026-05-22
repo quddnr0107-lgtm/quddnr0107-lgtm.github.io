@@ -51,12 +51,43 @@ ESFJ는 친구 1~2명보다 4~6명의 적당한 규모의 그룹 스터디에서
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 🛒 공부법 도구 보러가기
+## 🛒 공부법 도구 쿠팡에서 보기
 
-- [친구·가족과 함께 공부](https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%C2%B7%EA%B0%80%EC%A1%B1%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EA%B3%B5%EB%B6%80&channel=user&lptag=AF2582293&subId=mbti_book)
-- [그룹 스터디](https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94&channel=user&lptag=AF2582293&subId=mbti_book)
-- [SNS 학습 일지](https://www.coupang.com/np/search?q=SNS%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
-- [학원 같은 반 친구들과 협력 학습](https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EA%B0%99%EC%9D%80%20%EB%B0%98%20%EC%B9%9C%EA%B5%AC%EB%93%A4%EA%B3%BC%20%ED%98%91%EB%A0%A5%20%ED%95%99%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book)
-- [1:1 과외](https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%C2%B7%EA%B0%80%EC%A1%B1%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EA%B3%B5%EB%B6%80&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">친구·가족과 함께 공부</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">그룹 스터디</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=SNS%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">SNS 학습 일지</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EA%B0%99%EC%9D%80%20%EB%B0%98%20%EC%B9%9C%EA%B5%AC%EB%93%A4%EA%B3%BC%20%ED%98%91%EB%A0%A5%20%ED%95%99%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">학원 같은 반 친구들과 협력 학습</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">1:1 과외</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

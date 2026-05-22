@@ -51,12 +51,43 @@ ENFJ의 가장 흔한 실수는 "읽은 책을 다른 사람에게는 적용하�
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 📚 이 책 보러가기
+## 📚 이 책 쿠팡에서 보기
 
-- [데일 카네기 인간관계론](https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%BC%20%EC%B9%B4%EB%84%A4%EA%B8%B0%20%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0&channel=user&lptag=AF2582293&subId=mbti_book)
-- [그릿](https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A6%BF&channel=user&lptag=AF2582293&subId=mbti_book)
-- [김미경의 마흔 수업](https://www.coupang.com/np/search?q=%EA%B9%80%EB%AF%B8%EA%B2%BD%EC%9D%98%20%EB%A7%88%ED%9D%94%20%EC%88%98%EC%97%85&channel=user&lptag=AF2582293&subId=mbti_book)
-- [회복탄력성](https://www.coupang.com/np/search?q=%ED%9A%8C%EB%B3%B5%ED%83%84%EB%A0%A5%EC%84%B1&channel=user&lptag=AF2582293&subId=mbti_book)
-- [자존감 수업](https://www.coupang.com/np/search?q=%EC%9E%90%EC%A1%B4%EA%B0%90%20%EC%88%98%EC%97%85&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%BC%20%EC%B9%B4%EB%84%A4%EA%B8%B0%20%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">데일 카네기 인간관계론</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A6%BF&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">그릿</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EA%B9%80%EB%AF%B8%EA%B2%BD%EC%9D%98%20%EB%A7%88%ED%9D%94%20%EC%88%98%EC%97%85&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">김미경의 마흔 수업</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%ED%9A%8C%EB%B3%B5%ED%83%84%EB%A0%A5%EC%84%B1&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">회복탄력성</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9E%90%EC%A1%B4%EA%B0%90%20%EC%88%98%EC%97%85&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">자존감 수업</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

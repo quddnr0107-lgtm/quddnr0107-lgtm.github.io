@@ -51,12 +51,43 @@ ESTJ의 가장 흔한 실수는 "자기 방식의 효율이 모든 사람에게 
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 📚 이 책 보러가기
+## 📚 이 책 쿠팡에서 보기
 
-- [성공하는 사람들의 7가지 습관](https://www.coupang.com/np/search?q=%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98%207%EA%B0%80%EC%A7%80%20%EC%8A%B5%EA%B4%80&channel=user&lptag=AF2582293&subId=mbti_book)
-- [원씽](https://www.coupang.com/np/search?q=%EC%9B%90%EC%94%BD&channel=user&lptag=AF2582293&subId=mbti_book)
-- [돈의 속성](https://www.coupang.com/np/search?q=%EB%8F%88%EC%9D%98%20%EC%86%8D%EC%84%B1&channel=user&lptag=AF2582293&subId=mbti_book)
-- [부자 아빠 가난한 아빠](https://www.coupang.com/np/search?q=%EB%B6%80%EC%9E%90%20%EC%95%84%EB%B9%A0%20%EA%B0%80%EB%82%9C%ED%95%9C%20%EC%95%84%EB%B9%A0&channel=user&lptag=AF2582293&subId=mbti_book)
-- [데일 카네기 인간관계론](https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%BC%20%EC%B9%B4%EB%84%A4%EA%B8%B0%20%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98%207%EA%B0%80%EC%A7%80%20%EC%8A%B5%EA%B4%80&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">성공하는 사람들의 7가지 습관</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9B%90%EC%94%BD&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">원씽</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%8F%88%EC%9D%98%20%EC%86%8D%EC%84%B1&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">돈의 속성</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%B6%80%EC%9E%90%20%EC%95%84%EB%B9%A0%20%EA%B0%80%EB%82%9C%ED%95%9C%20%EC%95%84%EB%B9%A0&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">부자 아빠 가난한 아빠</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%8D%B0%EC%9D%BC%20%EC%B9%B4%EB%84%A4%EA%B8%B0%20%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">데일 카네기 인간관계론</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

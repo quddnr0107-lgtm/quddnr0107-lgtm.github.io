@@ -51,12 +51,43 @@ INTJ가 자기계발서를 읽을 때 가장 흔한 실수는 "읽기 자체가 
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 📚 이 책 보러가기
+## 📚 이 책 쿠팡에서 보기
 
-- [에센셜리즘](https://www.coupang.com/np/search?q=%EC%97%90%EC%84%BC%EC%85%9C%EB%A6%AC%EC%A6%98&channel=user&lptag=AF2582293&subId=mbti_book)
-- [딥 워크](https://www.coupang.com/np/search?q=%EB%94%A5%20%EC%9B%8C%ED%81%AC&channel=user&lptag=AF2582293&subId=mbti_book)
-- [안티프래질](https://www.coupang.com/np/search?q=%EC%95%88%ED%8B%B0%ED%94%84%EB%9E%98%EC%A7%88&channel=user&lptag=AF2582293&subId=mbti_book)
-- [프레임](https://www.coupang.com/np/search?q=%ED%94%84%EB%A0%88%EC%9E%84&channel=user&lptag=AF2582293&subId=mbti_book)
-- [굿라이프](https://www.coupang.com/np/search?q=%EA%B5%BF%EB%9D%BC%EC%9D%B4%ED%94%84&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EC%97%90%EC%84%BC%EC%85%9C%EB%A6%AC%EC%A6%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">에센셜리즘</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%94%A5%20%EC%9B%8C%ED%81%AC&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">딥 워크</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%95%88%ED%8B%B0%ED%94%84%EB%9E%98%EC%A7%88&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">안티프래질</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%ED%94%84%EB%A0%88%EC%9E%84&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">프레임</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EA%B5%BF%EB%9D%BC%EC%9D%B4%ED%94%84&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">굿라이프</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

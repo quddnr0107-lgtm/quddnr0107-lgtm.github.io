@@ -36,15 +36,32 @@ function buildAffiliateBlock(type, book) {
   }
 
   const isBookDomain = book.domain === '자기계발서';
-  const blockTitle = isBookDomain ? '📚 이 책 보러가기' : `🛒 ${book.domain} 도구 보러가기`;
-  const linksMd = items.map(t =>
-    `- [${t}](${affiliateLink(t)})`
-  ).join('\n');
+  const blockTitle = isBookDomain ? '📚 이 책 쿠팡에서 보기' : `🛒 ${book.domain} 도구 쿠팡에서 보기`;
+  // 시각적으로 쿠팡 링크임을 강조하는 HTML 블록 생성
+  const linksHtml = items.map(t => {
+    const url = affiliateLink(t);
+    return `<a href="${url}" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">${t}</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>`;
+  }).join('\n');
 
   return `
 ## ${blockTitle}
 
-${linksMd}
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+${linksHtml}
+</div>
 
 > ${COUPANG.disclosure}
 `;

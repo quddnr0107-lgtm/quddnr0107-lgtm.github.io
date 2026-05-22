@@ -51,12 +51,43 @@ ESTP의 가장 흔한 실수는 "분기마다 새로운 시도를 시작했다�
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 📚 이 책 보러가기
+## 📚 이 책 쿠팡에서 보기
 
-- [부의 추월차선](https://www.coupang.com/np/search?q=%EB%B6%80%EC%9D%98%20%EC%B6%94%EC%9B%94%EC%B0%A8%EC%84%A0&channel=user&lptag=AF2582293&subId=mbti_book)
-- [역행자](https://www.coupang.com/np/search?q=%EC%97%AD%ED%96%89%EC%9E%90&channel=user&lptag=AF2582293&subId=mbti_book)
-- [인생은 실전이다](https://www.coupang.com/np/search?q=%EC%9D%B8%EC%83%9D%EC%9D%80%20%EC%8B%A4%EC%A0%84%EC%9D%B4%EB%8B%A4&channel=user&lptag=AF2582293&subId=mbti_book)
-- [더 시스템](https://www.coupang.com/np/search?q=%EB%8D%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C&channel=user&lptag=AF2582293&subId=mbti_book)
-- [에센셜리즘](https://www.coupang.com/np/search?q=%EC%97%90%EC%84%BC%EC%85%9C%EB%A6%AC%EC%A6%98&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EB%B6%80%EC%9D%98%20%EC%B6%94%EC%9B%94%EC%B0%A8%EC%84%A0&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">부의 추월차선</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%97%AD%ED%96%89%EC%9E%90&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">역행자</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9D%B8%EC%83%9D%EC%9D%80%20%EC%8B%A4%EC%A0%84%EC%9D%B4%EB%8B%A4&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">인생은 실전이다</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%8D%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">더 시스템</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%97%90%EC%84%BC%EC%85%9C%EB%A6%AC%EC%A6%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">에센셜리즘</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

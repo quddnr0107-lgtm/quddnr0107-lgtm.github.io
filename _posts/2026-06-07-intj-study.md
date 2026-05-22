@@ -51,12 +51,43 @@ INTJ가 공부에서 가장 흔한 실수는 "본 학습보다 메타 학습에 
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 🛒 공부법 도구 보러가기
+## 🛒 공부법 도구 쿠팡에서 보기
 
-- [메타 학습 분석 후 단권화 시스템 구축](https://www.coupang.com/np/search?q=%EB%A9%94%ED%83%80%20%ED%95%99%EC%8A%B5%20%EB%B6%84%EC%84%9D%20%ED%9B%84%20%EB%8B%A8%EA%B6%8C%ED%99%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95&channel=user&lptag=AF2582293&subId=mbti_book)
-- [Active Recall + Anki·Quizlet 스페이스드 리피티션](https://www.coupang.com/np/search?q=Active%20Recall%20%2B%20Anki%C2%B7Quizlet%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%93%9C%20%EB%A6%AC%ED%94%BC%ED%8B%B0%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book)
-- [12주 마스터 플랜](https://www.coupang.com/np/search?q=12%EC%A3%BC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%ED%94%8C%EB%9E%9C&channel=user&lptag=AF2582293&subId=mbti_book)
-- [자기 데이터 추적](https://www.coupang.com/np/search?q=%EC%9E%90%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%A0%81&channel=user&lptag=AF2582293&subId=mbti_book)
-- [Spaced Repetition 기반 기출 회독 시스템화](https://www.coupang.com/np/search?q=Spaced%20Repetition%20%EA%B8%B0%EB%B0%98%20%EA%B8%B0%EC%B6%9C%20%ED%9A%8C%EB%8F%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%99%94&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%EB%A9%94%ED%83%80%20%ED%95%99%EC%8A%B5%20%EB%B6%84%EC%84%9D%20%ED%9B%84%20%EB%8B%A8%EA%B6%8C%ED%99%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">메타 학습 분석 후 단권화 시스템 구축</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=Active%20Recall%20%2B%20Anki%C2%B7Quizlet%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%93%9C%20%EB%A6%AC%ED%94%BC%ED%8B%B0%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">Active Recall + Anki·Quizlet 스페이스드 리피티션</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=12%EC%A3%BC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%ED%94%8C%EB%9E%9C&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">12주 마스터 플랜</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9E%90%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%A0%81&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">자기 데이터 추적</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=Spaced%20Repetition%20%EA%B8%B0%EB%B0%98%20%EA%B8%B0%EC%B6%9C%20%ED%9A%8C%EB%8F%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%99%94&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">Spaced Repetition 기반 기출 회독 시스템화</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

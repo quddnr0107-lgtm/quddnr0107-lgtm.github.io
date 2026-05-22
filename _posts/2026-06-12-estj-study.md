@@ -51,12 +51,43 @@ ESTJ에게 가장 잘 맞는 첫 단계 환경이다. 노량진 공무원반, �
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
 
-## 🛒 공부법 도구 보러가기
+## 🛒 공부법 도구 쿠팡에서 보기
 
-- [학원 정규반](https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EC%A0%95%EA%B7%9C%EB%B0%98&channel=user&lptag=AF2582293&subId=mbti_book)
-- [일타강사 단과 풀 수강](https://www.coupang.com/np/search?q=%EC%9D%BC%ED%83%80%EA%B0%95%EC%82%AC%20%EB%8B%A8%EA%B3%BC%20%ED%92%80%20%EC%88%98%EA%B0%95&channel=user&lptag=AF2582293&subId=mbti_book)
-- [8주 챌린지](https://www.coupang.com/np/search?q=8%EC%A3%BC%20%EC%B1%8C%EB%A6%B0%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
-- [모의고사 정기 응시](https://www.coupang.com/np/search?q=%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%EC%A0%95%EA%B8%B0%20%EC%9D%91%EC%8B%9C&channel=user&lptag=AF2582293&subId=mbti_book)
-- [1:1 과외](https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book)
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EC%A0%95%EA%B7%9C%EB%B0%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">학원 정규반</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9D%BC%ED%83%80%EA%B0%95%EC%82%AC%20%EB%8B%A8%EA%B3%BC%20%ED%92%80%20%EC%88%98%EA%B0%95&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">일타강사 단과 풀 수강</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=8%EC%A3%BC%20%EC%B1%8C%EB%A6%B0%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">8주 챌린지</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%EC%A0%95%EA%B8%B0%20%EC%9D%91%EC%8B%9C&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">모의고사 정기 응시</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">1:1 과외</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
 
 > 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
