@@ -8,6 +8,7 @@ description: "20대 후반 공시 준비 윤 모 씨(ENTP)는 1월에 공부를 
 keywords: "MBTI 공부법, 성격별 공부법, 16유형 공부법, ENTP 공부법, 토론가 공부법"
 book_title: "ESTJ에게 자기주도학습을 권하지 마라"
 book_url: "/book/study/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d36a85a907e440c66ae05"
 type_code: "ENTP"
 type_nickname: "토론가"
 ---

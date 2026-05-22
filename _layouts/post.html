@@ -10,7 +10,12 @@ layout: default
   <div class="cta">
     <h3>📘 이 글은 책의 일부입니다</h3>
     <p>전체 16유형 처방, 90~100일 적용 플랜, 자가 진단 체크리스트는 단행본에서 만나보세요.</p>
-    <p><a href="{{ page.book_url }}">▶ {{ page.book_title }} 구매하기</a></p>
+    {% if page.buy_url %}
+    <p><a href="{{ page.buy_url }}" target="_blank" rel="noopener" style="display:inline-block; background:#E63946; color:#fff; padding:12px 24px; border-radius:6px; text-decoration:none; font-weight:bold; margin-right:8px;">📕 부크크에서 구매하기</a>
+       <a href="{{ page.book_url }}" style="display:inline-block; padding:12px 20px; color:#fff; border:1px solid #888; border-radius:6px; text-decoration:none;">책 소개 더 보기</a></p>
+    {% else %}
+    <p><a href="{{ page.book_url }}">▶ {{ page.book_title }} 자세히 보기</a></p>
+    {% endif %}
   </div>
   {% endif %}
 

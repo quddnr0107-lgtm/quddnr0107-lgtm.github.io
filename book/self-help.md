@@ -38,9 +38,12 @@ ISTP 장인 · ISFP 모험가 · ESTP 사업가 · ESFP 연예인
 
 ## 구매처
 
-- 부크크 단행본
+<p style="margin: 24px 0;">
+<a href="https://bookk.co.kr/bookStore/6a0d32a8a55d20e8b2669245" target="_blank" rel="noopener" style="display:inline-block; background:#E63946; color:#fff; padding:14px 28px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:1.1em;">📕 부크크에서 구매하기</a>
+</p>
+
+- 부크크 단행본·전자책
 - yes24 · 교보문고 · 알라딘 (외부유통 등록 진행 중)
-- 부크크 전자책
 
 ## 시리즈 다른 권
 

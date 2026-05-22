@@ -8,6 +8,7 @@ description: "ISFJ는 공부를 '가족과 가까운 사람을 위해 내가 자
 keywords: "MBTI 공부법, 성격별 공부법, 16유형 공부법, ISFJ 공부법, 수호자 공부법"
 book_title: "ESTJ에게 자기주도학습을 권하지 마라"
 book_url: "/book/study/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d36a85a907e440c66ae05"
 type_code: "ISFJ"
 type_nickname: "수호자"
 ---

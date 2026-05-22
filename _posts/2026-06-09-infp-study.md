@@ -8,6 +8,7 @@ description: "INFP가 메가스터디 패스 200시간을 끊고 3주 안에 인
 keywords: "MBTI 공부법, 성격별 공부법, 16유형 공부법, INFP 공부법, 중재자 공부법"
 book_title: "ESTJ에게 자기주도학습을 권하지 마라"
 book_url: "/book/study/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d36a85a907e440c66ae05"
 type_code: "INFP"
 type_nickname: "중재자"
 ---

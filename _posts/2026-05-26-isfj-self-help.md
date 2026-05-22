@@ -8,6 +8,7 @@ description: "ISFJ는 자기계발서를 '내 일상과 관계를 더 잘 돌보
 keywords: "MBTI 자기계발, 성격별 자기계발서, 16유형 책 추천, ISFJ 자기계발서, 수호자 자기계발서"
 book_title: "ENFP에게 아주 작은 습관의 힘을 권하지 마라"
 book_url: "/book/self-help/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d32a8a55d20e8b2669245"
 type_code: "ISFJ"
 type_nickname: "수호자"
 ---

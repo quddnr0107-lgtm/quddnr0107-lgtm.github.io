@@ -8,6 +8,7 @@ description: "INFJ는 공부를 '점수를 위한 기계적 반복'이 아니라
 keywords: "MBTI 공부법, 성격별 공부법, 16유형 공부법, INFJ 공부법, 옹호자 공부법"
 book_title: "ESTJ에게 자기주도학습을 권하지 마라"
 book_url: "/book/study/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d36a85a907e440c66ae05"
 type_code: "INFJ"
 type_nickname: "옹호자"
 ---

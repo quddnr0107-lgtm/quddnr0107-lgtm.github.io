@@ -8,6 +8,7 @@ description: "20대 후반 대학원생 이 모 씨(INTP)는 도서관에서 자
 keywords: "MBTI 자기계발, 성격별 자기계발서, 16유형 책 추천, INTP 자기계발서, 논리술사 자기계발서"
 book_title: "ENFP에게 아주 작은 습관의 힘을 권하지 마라"
 book_url: "/book/self-help/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d32a8a55d20e8b2669245"
 type_code: "INTP"
 type_nickname: "논리술사"
 ---

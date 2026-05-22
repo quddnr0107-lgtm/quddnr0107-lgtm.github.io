@@ -29,6 +29,15 @@ ISTP 장인 · ISFP 모험가 · ESTP 사업가 · ESFP 연예인
 
 본서는 정신건강 처방이 아닙니다. 학습장애·ADHD·우울증·불안장애가 의심되면 정신건강의학과 또는 심리상담 전문가 상담을 우선해야 합니다. 자해·자살 사고가 들면 자살예방상담전화 1393, 정신건강위기상담 1577-0199, 청소년상담전화 1388로 도움을 구하세요.
 
+## 구매처
+
+<p style="margin: 24px 0;">
+<a href="https://bookk.co.kr/bookStore/6a0d36a85a907e440c66ae05" target="_blank" rel="noopener" style="display:inline-block; background:#E63946; color:#fff; padding:14px 28px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:1.1em;">📕 부크크에서 구매하기</a>
+</p>
+
+- 부크크 단행본·전자책
+- yes24 · 교보문고 · 알라딘 (외부유통 등록 진행 중)
+
 ## 시리즈 다른 권
 
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 - 자기계발서 처방전]({{ '/book/self-help/' | relative_url }})

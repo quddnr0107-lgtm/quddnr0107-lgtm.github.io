@@ -86,6 +86,7 @@ const BOOKS = [
     domain: '자기계발서',
     duration: 90,
     bookUrl: '/book/self-help/',
+    buyUrl: 'https://bookk.co.kr/bookStore/6a0d32a8a55d20e8b2669245',
     seoKeywords: ['MBTI 자기계발', '성격별 자기계발서', '16유형 책 추천'],
   },
   {
@@ -97,6 +98,7 @@ const BOOKS = [
     domain: '다이어트',
     duration: 90,
     bookUrl: '/book/diet/',
+    buyUrl: 'https://bookk.co.kr/bookStore/6a0d3290b5f25301484081dd',
     seoKeywords: ['MBTI 다이어트', '성격별 다이어트', '16유형 다이어트'],
   },
   {
@@ -108,6 +110,7 @@ const BOOKS = [
     domain: '공부법',
     duration: 100,
     bookUrl: '/book/study/',
+    buyUrl: 'https://bookk.co.kr/bookStore/6a0d36a85a907e440c66ae05',
     seoKeywords: ['MBTI 공부법', '성격별 공부법', '16유형 공부법'],
   },
 ];
@@ -162,6 +165,7 @@ description: "${description.replace(/"/g, "'")}"
 keywords: "${book.seoKeywords.concat([`${type.type} ${book.domain}`, `${type.nickname} ${book.domain}`]).join(', ')}"
 book_title: "${book.title}"
 book_url: "${book.bookUrl}"
+buy_url: "${book.buyUrl}"
 type_code: "${type.type}"
 type_nickname: "${type.nickname}"
 ---`;

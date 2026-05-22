@@ -8,6 +8,7 @@ description: "ESTJ는 자기계발서를 '결과를 빨리 내는 도구'로 본
 keywords: "MBTI 자기계발, 성격별 자기계발서, 16유형 책 추천, ESTJ 자기계발서, 경영자 자기계발서"
 book_title: "ENFP에게 아주 작은 습관의 힘을 권하지 마라"
 book_url: "/book/self-help/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d32a8a55d20e8b2669245"
 type_code: "ESTJ"
 type_nickname: "경영자"
 ---

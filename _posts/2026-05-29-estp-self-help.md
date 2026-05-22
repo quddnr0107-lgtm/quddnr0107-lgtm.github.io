@@ -8,6 +8,7 @@ description: "ESTP는 자기계발서를 '오늘 당장 써먹을 무기'로 본
 keywords: "MBTI 자기계발, 성격별 자기계발서, 16유형 책 추천, ESTP 자기계발서, 사업가 자기계발서"
 book_title: "ENFP에게 아주 작은 습관의 힘을 권하지 마라"
 book_url: "/book/self-help/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d32a8a55d20e8b2669245"
 type_code: "ESTP"
 type_nickname: "사업가"
 ---
