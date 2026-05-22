@@ -1,41 +1,63 @@
-name: Daily Rebuild
+name: Build and Deploy Jekyll
 
-# 매일 자동 빌드 — 예약된 미래 날짜 글을 그 날짜에 자동 노출시키기 위함
-# (Jekyll의 future:false 설정과 함께 작동. 매일 빌드 트리거되어야 새 발행분이 노출됨)
+# 트리거:
+# - main 푸시 시 즉시 빌드
+# - 매일 KST 09:00 (UTC 00:00) 자동 빌드 → 미래 날짜 글 자동 노출
+# - 수동 실행 가능
 
 on:
+  push:
+    branches: [main]
   schedule:
-    # 매일 KST 09:00 (UTC 00:00) 자동 실행
     - cron: '0 0 * * *'
-  workflow_dispatch:  # 수동 실행도 가능
+  workflow_dispatch:
+
+# Node.js 24 강제 (deprecation 회피)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# 동시 빌드 방지
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  rebuild:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ruby-version: '3.2'
+          bundler-cache: true
 
-      - name: Update build timestamp
-        run: |
-          mkdir -p .github
-          date -u '+%Y-%m-%dT%H:%M:%SZ' > .github/last-build.txt
-          echo "Daily rebuild triggered at $(date -u)" >> .github/last-build.txt
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
 
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/last-build.txt
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: daily rebuild trigger ($(date -u +%F))"
-            git push
-          fi
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
