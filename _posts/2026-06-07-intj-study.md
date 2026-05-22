@@ -50,3 +50,13 @@ INTJ가 공부에서 가장 흔한 실수는 "본 학습보다 메타 학습에 
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [메타 학습 분석 후 단권화 시스템 구축](https://www.coupang.com/np/search?q=%EB%A9%94%ED%83%80%20%ED%95%99%EC%8A%B5%20%EB%B6%84%EC%84%9D%20%ED%9B%84%20%EB%8B%A8%EA%B6%8C%ED%99%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95&channel=user&lptag=AF2582293&subId=mbti_book)
+- [Active Recall + Anki·Quizlet 스페이스드 리피티션](https://www.coupang.com/np/search?q=Active%20Recall%20%2B%20Anki%C2%B7Quizlet%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%93%9C%20%EB%A6%AC%ED%94%BC%ED%8B%B0%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book)
+- [12주 마스터 플랜](https://www.coupang.com/np/search?q=12%EC%A3%BC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%ED%94%8C%EB%9E%9C&channel=user&lptag=AF2582293&subId=mbti_book)
+- [자기 데이터 추적](https://www.coupang.com/np/search?q=%EC%9E%90%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%A0%81&channel=user&lptag=AF2582293&subId=mbti_book)
+- [Spaced Repetition 기반 기출 회독 시스템화](https://www.coupang.com/np/search?q=Spaced%20Repetition%20%EA%B8%B0%EB%B0%98%20%EA%B8%B0%EC%B6%9C%20%ED%9A%8C%EB%8F%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%99%94&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

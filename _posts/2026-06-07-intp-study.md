@@ -50,3 +50,13 @@ INTP가 공부에서 가장 흔한 실수는 "한 개념 깊이 파다가 시험
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [30일 단위 학습법 로테이션](https://www.coupang.com/np/search?q=30%EC%9D%BC%20%EB%8B%A8%EC%9C%84%20%ED%95%99%EC%8A%B5%EB%B2%95%20%EB%A1%9C%ED%85%8C%EC%9D%B4%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book)
+- [호기심 깊이 파기 + 다채널 자극](https://www.coupang.com/np/search?q=%ED%98%B8%EA%B8%B0%EC%8B%AC%20%EA%B9%8A%EC%9D%B4%20%ED%8C%8C%EA%B8%B0%20%2B%20%EB%8B%A4%EC%B1%84%EB%84%90%20%EC%9E%90%EA%B7%B9&channel=user&lptag=AF2582293&subId=mbti_book)
+- [메타 학습 일지](https://www.coupang.com/np/search?q=%EB%A9%94%ED%83%80%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [1:1 과외](https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book)
+- [Active Recall 기반 백지 복습](https://www.coupang.com/np/search?q=Active%20Recall%20%EA%B8%B0%EB%B0%98%20%EB%B0%B1%EC%A7%80%20%EB%B3%B5%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

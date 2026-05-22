@@ -50,3 +50,13 @@ INTJ가 자기계발서를 읽을 때 가장 흔한 실수는 "읽기 자체가 
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 📚 이 책 보러가기
+
+- [에센셜리즘](https://www.coupang.com/np/search?q=%EC%97%90%EC%84%BC%EC%85%9C%EB%A6%AC%EC%A6%98&channel=user&lptag=AF2582293&subId=mbti_book)
+- [딥 워크](https://www.coupang.com/np/search?q=%EB%94%A5%20%EC%9B%8C%ED%81%AC&channel=user&lptag=AF2582293&subId=mbti_book)
+- [안티프래질](https://www.coupang.com/np/search?q=%EC%95%88%ED%8B%B0%ED%94%84%EB%9E%98%EC%A7%88&channel=user&lptag=AF2582293&subId=mbti_book)
+- [프레임](https://www.coupang.com/np/search?q=%ED%94%84%EB%A0%88%EC%9E%84&channel=user&lptag=AF2582293&subId=mbti_book)
+- [굿라이프](https://www.coupang.com/np/search?q=%EA%B5%BF%EB%9D%BC%EC%9D%B4%ED%94%84&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

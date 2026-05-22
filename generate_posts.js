@@ -4,9 +4,51 @@
 
 const fs = require('fs');
 const path = require('path');
+const COUPANG = require('./coupang_config.js');
 
 const POSTS_DIR = path.join(__dirname, '_posts');
 const BASE_DATE = new Date('2026-05-22');
+
+// ── 쿠팡 파트너스 affiliate 블록 빌드 ─────────────
+function buildAffiliateBlock(type, book) {
+  if (!COUPANG.enabled) return '';
+
+  // recommended 책/방식 이름 추출
+  const items = type.recommended.slice(0, COUPANG.maxBooks).map(r => {
+    const heading = r.method || r.book || r.name || r.title || '';
+    // 책 제목만 추출 (괄호 안 저자·출판사 제거: "에센셜리즘 (그렉 맥커운, 알에이치코리아)" → "에센셜리즘")
+    const cleanTitle = heading.split('(')[0].trim();
+    return cleanTitle;
+  }).filter(Boolean);
+
+  if (items.length === 0) return '';
+
+  // 쿠팡 검색 URL 생성
+  // 형식: https://www.coupang.com/np/search?q=<인코딩된 키워드>&channel=user
+  // affiliate ID는 URL 끝에 ?lptag= 또는 subId= 형태로 붙음 (쿠팡 파트너스 가이드)
+  function affiliateLink(keyword) {
+    const q = encodeURIComponent(keyword);
+    let url = `https://www.coupang.com/np/search?q=${q}&channel=user`;
+    if (COUPANG.affiliateId) {
+      url += `&lptag=${encodeURIComponent(COUPANG.affiliateId)}&subId=${encodeURIComponent(COUPANG.channelName || '')}`;
+    }
+    return url;
+  }
+
+  const isBookDomain = book.domain === '자기계발서';
+  const blockTitle = isBookDomain ? '📚 이 책 보러가기' : `🛒 ${book.domain} 도구 보러가기`;
+  const linksMd = items.map(t =>
+    `- [${t}](${affiliateLink(t)})`
+  ).join('\n');
+
+  return `
+## ${blockTitle}
+
+${linksMd}
+
+> ${COUPANG.disclosure}
+`;
+}
 
 // 영문 타입 슬러그 매핑 (URL 안전)
 const SLUG_BASE = {
@@ -137,7 +179,7 @@ ${type.commonMistake.split('\n\n')[0]}
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
-`;
+${buildAffiliateBlock(type, book)}`;
 
   return frontMatter + body;
 }

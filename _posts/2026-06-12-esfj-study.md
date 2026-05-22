@@ -50,3 +50,13 @@ ESFJ는 친구 1~2명보다 4~6명의 적당한 규모의 그룹 스터디에서
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [친구·가족과 함께 공부](https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%C2%B7%EA%B0%80%EC%A1%B1%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EA%B3%B5%EB%B6%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [그룹 스터디](https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94&channel=user&lptag=AF2582293&subId=mbti_book)
+- [SNS 학습 일지](https://www.coupang.com/np/search?q=SNS%20%ED%95%99%EC%8A%B5%20%EC%9D%BC%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [학원 같은 반 친구들과 협력 학습](https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EA%B0%99%EC%9D%80%20%EB%B0%98%20%EC%B9%9C%EA%B5%AC%EB%93%A4%EA%B3%BC%20%ED%98%91%EB%A0%A5%20%ED%95%99%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book)
+- [1:1 과외](https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

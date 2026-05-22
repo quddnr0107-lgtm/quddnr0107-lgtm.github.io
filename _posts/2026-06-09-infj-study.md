@@ -50,3 +50,13 @@ INFJ의 가장 흔한 공부 실수는 "의미 부여에 매달리다 진도를 
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [자기 페이스 인강](https://www.coupang.com/np/search?q=%EC%9E%90%EA%B8%B0%20%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9D%B8%EA%B0%95&channel=user&lptag=AF2582293&subId=mbti_book)
+- [코넬 노트 + 단권화](https://www.coupang.com/np/search?q=%EC%BD%94%EB%84%AC%20%EB%85%B8%ED%8A%B8%20%2B%20%EB%8B%A8%EA%B6%8C%ED%99%94&channel=user&lptag=AF2582293&subId=mbti_book)
+- [카페·도서관 학습](https://www.coupang.com/np/search?q=%EC%B9%B4%ED%8E%98%C2%B7%EB%8F%84%EC%84%9C%EA%B4%80%20%ED%95%99%EC%8A%B5&channel=user&lptag=AF2582293&subId=mbti_book)
+- [명상과 결합된 학습 루틴](https://www.coupang.com/np/search?q=%EB%AA%85%EC%83%81%EA%B3%BC%20%EA%B2%B0%ED%95%A9%EB%90%9C%20%ED%95%99%EC%8A%B5%20%EB%A3%A8%ED%8B%B4&channel=user&lptag=AF2582293&subId=mbti_book)
+- [1:1 과외](https://www.coupang.com/np/search?q=1%3A1%20%EA%B3%BC%EC%99%B8&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

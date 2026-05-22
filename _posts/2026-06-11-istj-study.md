@@ -50,3 +50,13 @@ ISTJ의 "매뉴얼 본능"과 단권화는 완벽히 맞물린다. 메인 교재
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [학원 정규반 + 매주 진도표](https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EC%A0%95%EA%B7%9C%EB%B0%98%20%2B%20%EB%A7%A4%EC%A3%BC%20%EC%A7%84%EB%8F%84%ED%91%9C&channel=user&lptag=AF2582293&subId=mbti_book)
+- [단권화](https://www.coupang.com/np/search?q=%EB%8B%A8%EA%B6%8C%ED%99%94&channel=user&lptag=AF2582293&subId=mbti_book)
+- [회독법 3·5·7회독](https://www.coupang.com/np/search?q=%ED%9A%8C%EB%8F%85%EB%B2%95%203%C2%B75%C2%B77%ED%9A%8C%EB%8F%85&channel=user&lptag=AF2582293&subId=mbti_book)
+- [같은 시간 같은 루틴](https://www.coupang.com/np/search?q=%EA%B0%99%EC%9D%80%20%EC%8B%9C%EA%B0%84%20%EA%B0%99%EC%9D%80%20%EB%A3%A8%ED%8B%B4&channel=user&lptag=AF2582293&subId=mbti_book)
+- [일타강사 단과](https://www.coupang.com/np/search?q=%EC%9D%BC%ED%83%80%EA%B0%95%EC%82%AC%20%EB%8B%A8%EA%B3%BC&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

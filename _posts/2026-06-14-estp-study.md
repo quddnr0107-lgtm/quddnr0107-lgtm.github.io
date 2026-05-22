@@ -50,3 +50,13 @@ ESTP의 가장 큰 실패 패턴은 "문제 풀이만 가다 어느 단계에서
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [기출 무한 회독](https://www.coupang.com/np/search?q=%EA%B8%B0%EC%B6%9C%20%EB%AC%B4%ED%95%9C%20%ED%9A%8C%EB%8F%85&channel=user&lptag=AF2582293&subId=mbti_book)
+- [모의고사 반복](https://www.coupang.com/np/search?q=%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%EB%B0%98%EB%B3%B5&channel=user&lptag=AF2582293&subId=mbti_book)
+- [4주 챌린지](https://www.coupang.com/np/search?q=4%EC%A3%BC%20%EC%B1%8C%EB%A6%B0%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [즉시 결과 측정](https://www.coupang.com/np/search?q=%EC%A6%89%EC%8B%9C%20%EA%B2%B0%EA%B3%BC%20%EC%B8%A1%EC%A0%95&channel=user&lptag=AF2582293&subId=mbti_book)
+- [게임화 학습 앱 활용](https://www.coupang.com/np/search?q=%EA%B2%8C%EC%9E%84%ED%99%94%20%ED%95%99%EC%8A%B5%20%EC%95%B1%20%ED%99%9C%EC%9A%A9&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

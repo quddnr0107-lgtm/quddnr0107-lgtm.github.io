@@ -50,3 +50,13 @@ ENTP의 가장 흔한 실수는 "새 책에 흥분해서 진행 중인 적용을
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 📚 이 책 보러가기
+
+- [타이탄의 도구들](https://www.coupang.com/np/search?q=%ED%83%80%EC%9D%B4%ED%83%84%EC%9D%98%20%EB%8F%84%EA%B5%AC%EB%93%A4&channel=user&lptag=AF2582293&subId=mbti_book)
+- [모든 것이 되는 법](https://www.coupang.com/np/search?q=%EB%AA%A8%EB%93%A0%20%EA%B2%83%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EB%B2%95&channel=user&lptag=AF2582293&subId=mbti_book)
+- [행운에 속지마라](https://www.coupang.com/np/search?q=%ED%96%89%EC%9A%B4%EC%97%90%20%EC%86%8D%EC%A7%80%EB%A7%88%EB%9D%BC&channel=user&lptag=AF2582293&subId=mbti_book)
+- [역행자](https://www.coupang.com/np/search?q=%EC%97%AD%ED%96%89%EC%9E%90&channel=user&lptag=AF2582293&subId=mbti_book)
+- [에센셜리즘](https://www.coupang.com/np/search?q=%EC%97%90%EC%84%BC%EC%85%9C%EB%A6%AC%EC%A6%98&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

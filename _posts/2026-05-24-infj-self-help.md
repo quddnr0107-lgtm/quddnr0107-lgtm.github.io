@@ -50,3 +50,13 @@ INFJ의 가장 흔한 실수는 "깊은 책만 골라 읽다 실용적 영역이
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 📚 이 책 보러가기
+
+- [죽음의 수용소에서](https://www.coupang.com/np/search?q=%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EC%88%98%EC%9A%A9%EC%86%8C%EC%97%90%EC%84%9C&channel=user&lptag=AF2582293&subId=mbti_book)
+- [미움받을 용기](https://www.coupang.com/np/search?q=%EB%AF%B8%EC%9B%80%EB%B0%9B%EC%9D%84%20%EC%9A%A9%EA%B8%B0&channel=user&lptag=AF2582293&subId=mbti_book)
+- [굿라이프](https://www.coupang.com/np/search?q=%EA%B5%BF%EB%9D%BC%EC%9D%B4%ED%94%84&channel=user&lptag=AF2582293&subId=mbti_book)
+- [자존감 수업](https://www.coupang.com/np/search?q=%EC%9E%90%EC%A1%B4%EA%B0%90%20%EC%88%98%EC%97%85&channel=user&lptag=AF2582293&subId=mbti_book)
+- [프레임](https://www.coupang.com/np/search?q=%ED%94%84%EB%A0%88%EC%9E%84&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

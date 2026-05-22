@@ -50,3 +50,13 @@ ENTJ가 공부에서 가장 흔한 실수는 "동기·후배·스터디원에게
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [일타강사 단과 패키지](https://www.coupang.com/np/search?q=%EC%9D%BC%ED%83%80%EA%B0%95%EC%82%AC%20%EB%8B%A8%EA%B3%BC%20%ED%8C%A8%ED%82%A4%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [학원 정규반](https://www.coupang.com/np/search?q=%ED%95%99%EC%9B%90%20%EC%A0%95%EA%B7%9C%EB%B0%98&channel=user&lptag=AF2582293&subId=mbti_book)
+- [8주 챌린지 + 명확한 목표 지표](https://www.coupang.com/np/search?q=8%EC%A3%BC%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%2B%20%EB%AA%85%ED%99%95%ED%95%9C%20%EB%AA%A9%ED%91%9C%20%EC%A7%80%ED%91%9C&channel=user&lptag=AF2582293&subId=mbti_book)
+- [정기 모의고사 + 데이터 추적](https://www.coupang.com/np/search?q=%EC%A0%95%EA%B8%B0%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%2B%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EC%A0%81&channel=user&lptag=AF2582293&subId=mbti_book)
+- [1:1 코칭](https://www.coupang.com/np/search?q=1%3A1%20%EC%BD%94%EC%B9%AD&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

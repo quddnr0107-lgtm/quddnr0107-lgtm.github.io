@@ -50,3 +50,13 @@ ESFP의 가장 큰 실패 패턴은 "그룹 스터디가 수다 자리로 변하
 - [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
 - [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
 - [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+
+## 🛒 공부법 도구 보러가기
+
+- [그룹 스터디](https://www.coupang.com/np/search?q=%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94&channel=user&lptag=AF2582293&subId=mbti_book)
+- [카페 공부](https://www.coupang.com/np/search?q=%EC%B9%B4%ED%8E%98%20%EA%B3%B5%EB%B6%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [친구와 챌린지](https://www.coupang.com/np/search?q=%EC%B9%9C%EA%B5%AC%EC%99%80%20%EC%B1%8C%EB%A6%B0%EC%A7%80&channel=user&lptag=AF2582293&subId=mbti_book)
+- [SNS 학습 인증](https://www.coupang.com/np/search?q=SNS%20%ED%95%99%EC%8A%B5%20%EC%9D%B8%EC%A6%9D&channel=user&lptag=AF2582293&subId=mbti_book)
+- [짧은 인강 + 즉시 토론](https://www.coupang.com/np/search?q=%EC%A7%A7%EC%9D%80%20%EC%9D%B8%EA%B0%95%20%2B%20%EC%A6%89%EC%8B%9C%20%ED%86%A0%EB%A1%A0&channel=user&lptag=AF2582293&subId=mbti_book)
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
