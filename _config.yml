@@ -8,6 +8,9 @@ baseurl: ""
 lang: ko-KR
 timezone: Asia/Seoul
 
+# 미래 날짜 글도 즉시 노출 (전체 48편 한꺼번에 보이게)
+future: true
+
 permalink: /:categories/:slug/
 
 plugins:
