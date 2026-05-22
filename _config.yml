@@ -8,8 +8,8 @@ baseurl: ""
 lang: ko-KR
 timezone: Asia/Seoul
 
-# 미래 날짜 글도 즉시 노출 (전체 48편 한꺼번에 보이게)
-future: true
+# 미래 날짜 글은 자동 숨김 (자연 발행 패턴 유지, 검색엔진 신뢰도 ↑)
+future: false
 
 permalink: /:categories/:slug/
 

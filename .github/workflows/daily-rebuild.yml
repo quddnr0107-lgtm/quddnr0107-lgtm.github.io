@@ -1,0 +1,41 @@
+name: Daily Rebuild
+
+# 매일 자동 빌드 — 예약된 미래 날짜 글을 그 날짜에 자동 노출시키기 위함
+# (Jekyll의 future:false 설정과 함께 작동. 매일 빌드 트리거되어야 새 발행분이 노출됨)
+
+on:
+  schedule:
+    # 매일 KST 09:00 (UTC 00:00) 자동 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 수동 실행도 가능
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update build timestamp
+        run: |
+          mkdir -p .github
+          date -u '+%Y-%m-%dT%H:%M:%SZ' > .github/last-build.txt
+          echo "Daily rebuild triggered at $(date -u)" >> .github/last-build.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/last-build.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily rebuild trigger ($(date -u +%F))"
+            git push
+          fi

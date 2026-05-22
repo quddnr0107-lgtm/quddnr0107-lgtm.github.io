@@ -128,7 +128,8 @@ function loadBook(bookPath) {
 
 // 글 본문 마크다운 생성 (책 본문 발췌 + 미공개 부분 차단)
 function buildPostMarkdown(type, book, postIndex) {
-  const dateStr = new Date(BASE_DATE.getTime() + postIndex * 12 * 3600 * 1000)
+  // 24시간 간격으로 48일 동안 분산 발행 (자연 블로그 페이스 — 검색엔진 신뢰도 ↑)
+  const dateStr = new Date(BASE_DATE.getTime() + postIndex * 24 * 3600 * 1000)
     .toISOString().split('T')[0];
 
   // intro 첫 2문단만 발췌 (전문 노출 방지)
@@ -222,7 +223,7 @@ function main() {
       if (!type) { console.warn(`MISSING: ${book.id}/${code}`); continue; }
 
       const slug = `${SLUG_BASE[code]}-${book.id}`;
-      const dateStr = new Date(BASE_DATE.getTime() + postIndex * 12 * 3600 * 1000)
+      const dateStr = new Date(BASE_DATE.getTime() + postIndex * 24 * 3600 * 1000)
         .toISOString().split('T')[0];
       const filename = `${dateStr}-${slug}.md`;
       const filepath = path.join(POSTS_DIR, filename);
