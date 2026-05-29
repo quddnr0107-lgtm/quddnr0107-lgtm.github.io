@@ -116,20 +116,37 @@ function getHow(r) {
 }
 
 // ── 쿠팡 affiliate 블록 ───────────────
+// 연애책 전용 — 관계·연애 베스트셀러 도서 큐레이션 (실제 쿠팡 상품)
+const LOVE_BOOKS = [
+  '화성에서 온 남자 금성에서 온 여자',
+  '비폭력대화',
+  '왜 나는 너를 사랑하는가',
+  '사랑의 기술 에리히 프롬',
+  '가트맨의 부부 감정 치유',
+  '어른의 애착 수업',
+];
+
 function buildAffiliateBlock(type, book) {
   if (!COUPANG.enabled) return '';
-  // 연애책은 추천이 추상적 만남 방식이라 쿠팡 상품 링크 부적합 → 제외
-  if (book.id === 'love' || book.domain === '연애') return '';
-  const items = type.recommended.slice(0, COUPANG.maxBooks).map(r => getRec(r).split('(')[0].trim()).filter(Boolean);
-  if (items.length === 0) return '';
   const aff = (kw) => {
     const q = encodeURIComponent(kw);
     let url = `https://www.coupang.com/np/search?q=${q}&channel=user`;
     if (COUPANG.affiliateId) url += `&lptag=${encodeURIComponent(COUPANG.affiliateId)}&subId=${encodeURIComponent(COUPANG.channelName||'')}`;
     return url;
   };
-  const isBook = book.domain === '자기계발서';
-  const blockTitle = isBook ? '📚 이 책 쿠팡에서 보기' : `🛒 ${book.domain} 도구 쿠팡에서 보기`;
+
+  let items, blockTitle;
+  if (book.id === 'love' || book.domain === '연애') {
+    // 연애책: 추상적 만남 방식 대신 관계 도서 큐레이션
+    items = LOVE_BOOKS;
+    blockTitle = '📚 연애·관계에 도움 되는 책';
+  } else {
+    items = type.recommended.slice(0, COUPANG.maxBooks).map(r => getRec(r).split('(')[0].trim()).filter(Boolean);
+    const isBook = book.domain === '자기계발서';
+    blockTitle = isBook ? '📚 이 책 쿠팡에서 보기' : `🛒 ${book.domain} 도구 쿠팡에서 보기`;
+  }
+  if (items.length === 0) return '';
+
   const linksHtml = items.map(t => `<a href="${aff(t)}" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
   <span class="coupang-tag">쿠팡</span>
   <span class="coupang-title">${t}</span>
