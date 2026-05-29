@@ -8,6 +8,12 @@ baseurl: ""
 lang: ko-KR
 timezone: Asia/Seoul
 
+# 방문자 분석 도구 (가입 후 ID 입력. 비워두면 비활성)
+# 구글 애널리틱스 4: analytics.google.com → 측정 ID (G-XXXXXXXXXX)
+google_analytics: ""
+# 네이버 애널리틱스: analytics.naver.com → 추적 ID
+naver_analytics: ""
+
 # 미래 날짜 글은 자동 숨김 (자연 발행 패턴 유지, 검색엔진 신뢰도 ↑)
 future: false
 

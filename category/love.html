@@ -1,0 +1,22 @@
+---
+layout: default
+title: 연애 - MBTI 16유형 연애 처방
+description: INFJ·INTP·ENFP·ESTP 등 MBTI 16유형별 맞춤 연애 처방. 소개팅·소개팅앱·결혼정보업체·자만추 등 한국 만남 방식 전체 분류.
+permalink: /category/연애/
+---
+
+<h1>연애 - MBTI 16유형 연애 처방</h1>
+
+<p>같은 만남이 누구에겐 약이 되고 누구에겐 독이 된다. MBTI 16유형 관점에서 한국 만남 방식을 다시 분류한 처방 시리즈.</p>
+
+<p><a href="{{ '/book/love/' | relative_url }}"><strong>▶ 단행본 정보 보기</strong></a></p>
+
+<h2>16유형별 글</h2>
+<ul class="post-list">
+{% for post in site.categories["연애"] %}
+  <li>
+    <span class="date">{{ post.date | date: "%m.%d" }}</span>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

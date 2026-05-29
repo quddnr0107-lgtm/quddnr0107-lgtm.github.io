@@ -1,0 +1,82 @@
+---
+layout: post
+title: "INTP 위한 90일 다이어트 적용 플랜"
+date: 2026-12-05 10:00:00 +0900
+categories: [다이어트]
+tags: ["MBTI", "다이어트", "INTP", "논리술사", "INTP 다이어트", "MBTI 다이어트", "16유형", "성격별", "plan"]
+description: "INTP 논리술사을 위한 90일 다이어트 운영체계  20대 후반 대학원생 이 모 씨(INTP)는 다이어트를 결심한 뒤 첫 한 달 동안 운동을 한 번도 안 했다. 대신 그가 한 일은 '키토 vs 인터미턴트 vs 팔레오 vs 듀칸 vs OMAD vs 카니보어'의 메타..."
+keywords: "MBTI 다이어트, 성격별 다이어트, 16유형 다이어트, INTP 다이어트, 논리술사 다이어트"
+book_title: "헬스장 PT를 권하지 마라"
+book_url: "/book/diet/"
+buy_url: "https://bookk.co.kr/bookStore/6a0d3290b5f25301484081dd"
+type_code: "INTP"
+type_nickname: "논리술사"
+variant: "plan"
+---
+## INTP 논리술사을 위한 90일 다이어트 운영체계
+
+20대 후반 대학원생 이 모 씨(INTP)는 다이어트를 결심한 뒤 첫 한 달 동안 운동을 한 번도 안 했다. 대신 그가 한 일은 "키토 vs 인터미턴트 vs 팔레오 vs 듀칸 vs OMAD vs 카니보어"의 메타 분석이었다. 논문 PDF를 30편 다운로드했고, 유튜브 운동영양학 채널을 12개 구독했고, 레딧 r/keto와 r/intermittentfasting을 동시에 즐겨찾기했다. 친구가 "그래서 뭐 할 거야"라고 묻자 이 씨는 답했다. "아직 데이터를 모으는 중이야." INTP는 다이어트를 "인체 대사의 가설 실험장"으로 본다.
+
+## 90일 단계별 플랜 (요약)
+
+**1단계 (1~30일)**: 본성과 가장 맞는 방식 1가지부터 — 30일 단위 식단 로테이션 실험 (지중해 → 저탄고지 → 식물성 위주 → 평소식)
+
+각 30일이 시작될 때 시작 체중·체지방·허리 둘레·평균 수면·평균 컨디션(1~10)을 기록한다. 끝날 때 같은 항목을 다시 적고 "이번 식단의 장단점"을 5줄 이내로 요약한다. 1년 4사이클이 끝나면 자기 베스트 식단이 보인다. (저탄고지·키토 사이클 진입 시 키토 플루·전해질 부족이 흔하니 나트륨·마그네슘·칼륨 보충을 챙기고, 신장·간·당뇨 병력자는 시...
+
+**2단계 (31~60일)**: 한 가지가 일상이 되면 두 번째 추가 — 다양한 운동 로테이션 (클라이밍·수영·요가·웨이트 주 1회씩)
+
+**3단계 (61~90일)**: 자기 패턴 분석 + 조정
+
+각 단계별 구체적 워크시트와 측정 도구는 단행본 4부에서 다룹니다.
+
+## 핵심 원칙
+
+> INTP는 다이어트를 평생 가는 자기 인체 실험으로 본다. 가설-30일 실험-1페이지 결론의 사이클을 돌려라. 결론 없는 실험은 데이터가 아닌 잡음이다.
+
+## 시리즈 다른 권
+
+- [ENFP에게 아주 작은 습관의 힘을 권하지 마라 (자기계발서)](/book/self-help/)
+- [INFP에게 헬스장 PT를 권하지 마라 (다이어트)](/book/diet/)
+- [ESTJ에게 자기주도학습을 권하지 마라 (공부법)](/book/study/)
+- [INFJ에게 소개팅을 권하지 마라 (연애)](/book/love/)
+
+## 🛒 다이어트 도구 쿠팡에서 보기
+
+<style>
+.coupang-btn { display: flex; align-items: center; gap: 10px; padding: 12px 16px; margin: 8px 0; background: #fff; border: 1px solid #ddd; border-radius: 8px; text-decoration: none; color: #1a1a1a; transition: all 0.15s; }
+.coupang-btn:hover { border-color: #E63946; transform: translateX(3px); }
+.coupang-tag { background: #f04757; color: #fff; font-weight: bold; font-size: 0.78em; padding: 3px 8px; border-radius: 4px; flex-shrink: 0; }
+.coupang-title { font-weight: 600; flex-grow: 1; }
+.coupang-arrow { color: #888; font-size: 0.85em; flex-shrink: 0; }
+@media (max-width: 480px) { .coupang-arrow { display: none; } }
+</style>
+
+<div class="coupang-list">
+<a href="https://www.coupang.com/np/search?q=30%EC%9D%BC%20%EB%8B%A8%EC%9C%84%20%EC%8B%9D%EB%8B%A8%20%EB%A1%9C%ED%85%8C%EC%9D%B4%EC%85%98%20%EC%8B%A4%ED%97%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">30일 단위 식단 로테이션 실험</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%9A%B4%EB%8F%99%20%EB%A1%9C%ED%85%8C%EC%9D%B4%EC%85%98&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">다양한 운동 로테이션</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9E%90%EA%B8%B0%20%EC%A0%95%EB%9F%89%ED%99%94%20%EB%8F%84%EA%B5%AC%20%EB%AC%B6%EC%9D%8C&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">자기 정량화 도구 묶음</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%8B%9C%EA%B0%84%20%EC%B0%BD%20%EC%8B%9D%EC%82%AC&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">유연한 시간 창 식사</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+<a href="https://www.coupang.com/np/search?q=%EB%8B%A8%EB%B0%B1%EC%A7%88%20%EC%9A%B0%EC%84%A0%20%EC%8B%9D%ED%8C%90%20%2B%20%EC%B1%84%EC%86%8C%20%ED%95%9C%20%EC%A4%8C%20%EA%B7%9C%EC%B9%99&channel=user&lptag=AF2582293&subId=mbti_book" target="_blank" rel="nofollow sponsored noopener" class="coupang-btn">
+  <span class="coupang-tag">쿠팡</span>
+  <span class="coupang-title">단백질 우선 식판 + 채소 한 줌 규칙</span>
+  <span class="coupang-arrow">최저가 보기 →</span>
+</a>
+</div>
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.

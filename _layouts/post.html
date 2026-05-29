@@ -1,16 +1,38 @@
 ---
 layout: default
 ---
-<article>
-  <h1>{{ page.title }}</h1>
-  <p class="post-meta">{{ page.date | date: "%Y년 %-m월 %-d일" }} · {{ page.categories | first }}</p>
+<article itemscope itemtype="https://schema.org/Article">
+  <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+  <meta itemprop="author" content="문학소정">
+  <meta itemprop="publisher" content="문학소정">
+
+  <!-- 빵부스러기 (Breadcrumb) -->
+  <nav class="breadcrumb" aria-label="breadcrumb">
+    <a href="{{ '/' | relative_url }}">홈</a> ›
+    <a href="{{ '/category/' | append: page.categories.first | relative_url }}/">{{ page.categories | first }}</a> ›
+    <span>{{ page.type_code }}</span>
+  </nav>
+
+  <h1 itemprop="headline">{{ page.title }}</h1>
+  <p class="post-meta">{{ page.date | date: "%Y년 %-m월 %-d일" }} · {{ page.categories | first }} · 문학소정</p>
+
+  <!-- 핵심 요약 (GEO: AI 검색이 인용하기 좋은 답변 우선 블록) -->
+  {% if page.summary %}
+  <div class="tldr" itemprop="abstract">
+    <strong>핵심 요약</strong><br>
+    {{ page.summary }}
+  </div>
+  {% endif %}
+
+  <div itemprop="articleBody">
   {{ content }}
+  </div>
 
   {% if page.book_url %}
   <div class="cta">
     <h3>📘 이 글은 책의 일부입니다</h3>
-    <p>전체 16유형 처방, 90~100일 적용 플랜, 자가 진단 체크리스트는 단행본에서 만나보세요.</p>
-    {% if page.buy_url %}
+    <p>전체 16유형 처방, 적용 플랜, 자가 진단 체크리스트는 단행본에서 만나보세요.</p>
+    {% if page.buy_url and page.buy_url != "" %}
     <p><a href="{{ page.buy_url }}" target="_blank" rel="noopener" style="display:inline-block; background:#E63946; color:#fff; padding:12px 24px; border-radius:6px; text-decoration:none; font-weight:bold; margin-right:8px;">📕 부크크에서 구매하기</a>
        <a href="{{ page.book_url }}" style="display:inline-block; padding:12px 20px; color:#fff; border:1px solid #888; border-radius:6px; text-decoration:none;">책 소개 더 보기</a></p>
     {% else %}
@@ -27,12 +49,64 @@ layout: default
   </div>
   {% endif %}
 
-  {% if page.related %}
-  <h3 style="margin-top: 40px;">관련 글</h3>
+  <!-- 같은 유형 다른 글 (내부 링크 — SEO 체류시간·크롤 깊이) -->
+  {% assign related = site.posts | where: "type_code", page.type_code | where_exp: "p", "p.url != page.url" | slice: 0, 6 %}
+  {% if related.size > 0 %}
+  <h2 style="margin-top: 40px;">{{ page.type_code }} 관련 글 더 보기</h2>
   <ul class="post-list">
-    {% for rel in page.related %}
+    {% for rel in related %}
       <li><a href="{{ rel.url | relative_url }}">{{ rel.title }}</a></li>
     {% endfor %}
   </ul>
   {% endif %}
 </article>
+
+<!-- JSON-LD: Article 구조화 데이터 (구글 리치 결과 + GEO) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": { "@type": "Person", "name": "문학소정" },
+  "publisher": { "@type": "Organization", "name": "MBTI 처방전", "url": "{{ site.url }}" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ page.url | absolute_url }}" },
+  "inLanguage": "ko-KR",
+  "keywords": {{ page.keywords | jsonify }},
+  "articleSection": {{ page.categories.first | jsonify }}
+}
+</script>
+
+<!-- JSON-LD: BreadcrumbList -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "홈", "item": "{{ site.url }}{{ site.baseurl }}/" },
+    { "@type": "ListItem", "position": 2, "name": {{ page.categories.first | jsonify }}, "item": "{{ site.url }}{{ site.baseurl }}/category/{{ page.categories.first }}/" },
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
+  ]
+}
+</script>
+
+{% if page.faq %}
+<!-- JSON-LD: FAQPage (구글 FAQ 리치결과 + AI 검색 인용) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for qa in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ qa.q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ qa.a | jsonify }} }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
